@@ -1,4 +1,4 @@
-[CodeForces_Helper](https://github.com/Aman2001/CodeForces_Helper)
+[CodeForces_Helper](https://aman2001.github.io/CodeForces_Helper/)
 
 Our mission is to help newly admitted students who want to make big in tech domain, by providing them with a one stop solution for all doubts in their coding journey!  Moreover, to help improve performance, we have also provided resources for users to find best resources on competitive programming out on the internet!
 
